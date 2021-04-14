@@ -6773,3 +6773,7 @@ td.does-not-support {
 .tutorial-outline li, ol, ul {
     padding-left: 40px;
 }
+
+img {
+    border-radius: 50%;
+  }
