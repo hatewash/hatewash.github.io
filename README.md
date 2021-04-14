@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Combating Online Hate Speech: Roles of Content,Networks, Psychology, User Behavior and Others
 
-You can use the [editor on GitHub](https://github.com/combating-hatespeech/combating-hatespeech.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Abstract
+Since the proliferation of social media usage, hate speech has become a major crisis. On the one hand, hateful content creates an unsafe environment for certain members of our society. On the other hand, in-person moderation of hate speech causes distress to content moderators[^1]. Additionally, it is not just the presence of hate speech in isolation but its ability to dissipate quickly, where early detection and intervention can be most effective. However, for online platforms to become genuinely safe and democratic, it is equally important to understand what causes the generation of hate speech in the first place. Can psycho-linguistic analysis of users guide us better? This multifaceted nature of hate speech has already piqued the interest of the data mining and machine learning communities. Through this tutorial, we will provide a holistic view of what the research community has explored so far, the existing success and limitations of these approaches, and what the future holds for combating online hate speech.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[^1]: [https://theconversation.com/we-need-to-talk-about-the-mental-health-of-content-moderators-103830](https://theconversation.com/we-need-to-talk-about-the-mental-health-of-content-moderators-103830)
+
 
 ### Markdown
 
