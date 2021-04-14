@@ -6768,3 +6768,8 @@ td.does-not-support {
 .validated .form-control:valid:focus {
   box-shadow: 0 0 0 3px rgba(40, 167, 69, 0.25);
 }
+
+
+.tutorial-outline li, ol, ul {
+    padding-left: 40px;
+}
