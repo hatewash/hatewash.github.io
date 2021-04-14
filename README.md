@@ -6,6 +6,49 @@ Since the proliferation of social media usage, hate speech has become a major cr
 [^1]: [https://theconversation.com/we-need-to-talk-about-the-mental-health-of-content-moderators-103830](https://theconversation.com/we-need-to-talk-about-the-mental-health-of-content-moderators-103830)
 
 
+### Outline
+
+- Outline of the Tutorial  
+    - Hate Speech (Lead: Tanmoy Chakraborty - 20 mins)  
+    - Definitions and motivations  
+    - Resources: Datasets and annotation guidelines  
+    - Challenges  
+  
+- Hate Speech Detection (Lead: Manish Gupta - 45 mins )  
+    - Modality  
+        - Unimodal  
+        - Multimodal  
+    - Types of the frameworks  
+    - Limitations  
+- Hate Speech Diffusion (Lead: Sarah Masud - 40 mins)  
+    - Cascade prediction  
+    - Prediction of spreaders and consumers of hate speech  
+    - Role of user and network metadata  
+  
+- ----- Break (30 mins) -----  
+  
+- Psychological Analysis of Online Hate Spreaders (Lead: Amitava Das - 30 mins)  
+    - Personality models  
+    - Values models  
+    - Empathy model  
+    - Conformity bias  
+  
+- Intervention Strategy (Lead: Sarah Masud - 30 mins)  
+    - Early detection  
+    - Counter hate speech  
+    - Proactive and reactive strategies  
+  
+- Bias in Hate Speech Analysis (Lead: Pinkesh Badjatiya - 25 mins)  
+    - Data bias  
+    - Model bias  
+    - Other types of bias  
+  
+- Future Scopes (Lead: Tanmoy Chakraborty - 20 mins)  
+    - Fine-grained hate speech classification  
+    - Sophisticated models - zero-shot/few-shot learning  
+    - Language-agnostic and culture-agnostic modeling  
+    - Fairness and bias  
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
