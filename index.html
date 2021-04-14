@@ -7,20 +7,25 @@
     <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i" rel="stylesheet">
+    
+    <!-- custom scripts -->
+    <link rel="stylesheet" href="/assets/css/listree.min.css"/>
+    <script src="/assets/js/listree.umd.min.js"></script>
+
     <!-- Begin Jekyll SEO tag v2.7.1 -->
-    <title>GitHub and Government | GitHub helps government build software better, together</title>
+    <title>HateWash | GitHub helps government build software better, together</title>
     <meta name="generator" content="Jekyll v3.9.0" />
-    <meta property="og:title" content="GitHub and Government" />
+    <meta property="og:title" content="HateWash" />
     <meta property="og:locale" content="en_US" />
     <meta name="description" content="Make government better, together. Stories of open source, open data, and open government." />
     <meta property="og:description" content="Make government better, together. Stories of open source, open data, and open government." />
-    <link rel="canonical" href="https://government.github.com/" />
-    <meta property="og:url" content="https://government.github.com/" />
-    <meta property="og:site_name" content="GitHub and Government" />
+    <link rel="canonical" href="https://combating-hatespeech.github.io/" />
+    <meta property="og:url" content="https://combating-hatespeech.github.io/" />
+    <meta property="og:site_name" content="HateWash" />
     <meta name="twitter:card" content="summary" />
-    <meta property="twitter:title" content="GitHub and Government" />
+    <meta property="twitter:title" content="HateWash" />
     <script type="application/ld+json">
-    {"description":"Make government better, together. Stories of open source, open data, and open government.","@type":"WebSite","headline":"GitHub and Government","url":"https://government.github.com/","name":"GitHub and Government","@context":"https://schema.org"}</script>
+    {"description":"Make government better, together. Stories of open source, open data, and open government.","@type":"WebSite","headline":"HateWash","url":"https://combating-hatespeech.github.io/","name":"HateWash","@context":"https://schema.org"}</script>
     <!-- End Jekyll SEO tag -->
   </head>
 
@@ -29,7 +34,7 @@
     <div class="page-header pt-4 pb-5">
       <div class="container-xl">
         <div class="text-center">
-          <a href="/"><img class="logo py-3" src="/assets/img/logomark.svg" alt="GitHub and Government"></a>
+          <a href="/"><img class="logo py-3" src="/assets/img/logomark.svg" alt="HateWash"></a>
           <ul>
             <li class="text-center d-block d-sm-inline-block px-1 px-md-3"><a href="/index.html" class="text-white">Home</a></li>
             <li class="text-center d-block d-sm-inline-block px-1 px-md-3"><a href="/outline.html" class="text-white">Tutorial Outline</a></li>
@@ -55,6 +60,41 @@
         </p>
       </div>
     </section>
+
+    <section id="get-started" class="mini-section mt-6">
+      <div class="container-xl p-responsive">
+        <ul class="listree">
+          <li>
+            <div class="listree-submenu-heading">Item 1</div>
+            <ul class="listree-submenu-items">
+              <li>
+                <div class="listree-submenu-heading">Item 1-1</div>
+                  <ul class="listree-submenu-items">
+                    <li>
+                      <div class="listree-submenu-heading">Item 1-1-1</div>
+                        <ul class="listree-submenu-items">
+                          <li>
+                            <div class="listree-submenu-heading">Item 1-1-1-1</div>
+                              <ul class="listree-submenu-items">
+                              <li>
+                                <a href="">Item 1-1-1-1-1</a>
+                              </li>
+                              <li>
+                                <a href="">Item 1-1-1-1-2</a>
+                              </li>
+                              </ul>
+                          </li>
+                        </ul>
+                    </li>
+                  </ul>
+              </li>
+            </ul>
+          </li>
+          // more list items here
+        </ul>
+      </div>
+    </section>
+    
 
     <!-- <section class="container-xl p-responsive py-5 py-md-6 my-lg-6">
       <div class="clearfix gutter-spacious">
@@ -260,7 +300,10 @@
 
     <script src="/assets/vendor/anchor-js/anchor.min.js"></script>
     <script src="/assets/vendor/jquery/dist/jquery.min.js"></script>
-    <script>anchors.add('.org-type h4');</script>
+    <script>
+      anchors.add('.org-type h4');
+      listree();
+    </script>
     
     <script src="/assets/js/home.js"></script>
     
