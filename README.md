@@ -7,8 +7,7 @@
 
 ### Outline
 
-- Outline of the Tutorial  
-    - Hate Speech (Lead: Tanmoy Chakraborty - 20 mins)  
+- Hate Speech (Lead: Tanmoy Chakraborty - 20 mins)  
     - Definitions and motivations  
     - Resources: Datasets and annotation guidelines  
     - Challenges  
