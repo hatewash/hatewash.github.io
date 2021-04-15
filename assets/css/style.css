@@ -6592,10 +6592,11 @@ body {
   -moz-transition: background-image 0.6s ease-in-out 0s;
   -o-transition: background-image 0.6s ease-in-out 0s;
   transition: background-image 0.6s ease-in-out 0s;
-  background-image: url("../img/olivebranch.png");
+/*  background-image: url("../img/background.svg");
   background-repeat: no-repeat;
-  background-position: center center;
-}
+  background-position: top left;
+  background-size: 275px;*/
+} 
 .logo {
   max-width: 280px;
 }
