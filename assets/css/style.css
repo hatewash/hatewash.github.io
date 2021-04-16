@@ -6310,6 +6310,8 @@ a.tabnav-extra:hover {
   -webkit-font-smoothing: antialiased;
   font-size: 21px;
   font-weight: 300;
+  text-align: justify;
+  text-justify: inter-word;
 }
 @media (min-width: 768px) {
   .alt-lead {
