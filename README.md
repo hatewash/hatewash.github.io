@@ -7,48 +7,23 @@ Since the proliferation of social media usage, hate speech has become a major cr
 
 
 ### Outline
-
-- Outline of the Tutorial  
-    - Hate Speech (Lead: Tanmoy Chakraborty - 20 mins)  
-    - Definitions and motivations  
-    - Resources: Datasets and annotation guidelines  
-    - Challenges  
-  
-- Hate Speech Detection (Lead: Manish Gupta - 45 mins )  
-    - Modality  
-        - Unimodal  
-        - Multimodal  
-    - Types of the frameworks  
-    - Limitations  
-- Hate Speech Diffusion (Lead: Sarah Masud - 40 mins)  
-    - Cascade prediction  
-    - Prediction of spreaders and consumers of hate speech  
-    - Role of user and network metadata  
-  
-- ----- Break (30 mins) -----  
-  
-- Psychological Analysis of Online Hate Spreaders (Lead: Amitava Das - 30 mins)  
-    - Personality models  
-    - Values models  
-    - Empathy model  
-    - Conformity bias  
-  
-- Intervention Strategy (Lead: Sarah Masud - 30 mins)  
-    - Early detection  
-    - Counter hate speech  
-    - Proactive and reactive strategies  
-  
-- Bias in Hate Speech Analysis (Lead: Pinkesh Badjatiya - 25 mins)  
-    - Data bias  
-    - Model bias  
-    - Other types of bias  
-  
-- Future Scopes (Lead: Tanmoy Chakraborty - 20 mins)  
-    - Fine-grained hate speech classification  
-    - Sophisticated models - zero-shot/few-shot learning  
-    - Language-agnostic and culture-agnostic modeling  
-    - Fairness and bias  
-
+- Slot I: (65 mins)
+    - Introduction: 20 mins (Dr. Tanmoy)
+    - Hate Speech Detection: 30 mins (Dr. Manish)
+    - Questions: (15 mins)
+- Slot II: (55 mins)
+    - Hate Speech Diffusion: 40 mins (Sarah)
+    - Questions: (15 mins)
+- Break (5 mins)
+- Slot III: (65 mins)
+    - Psychological Analysis of Hate Spreaders: 25 mins (Dr. Amitava)
+    - Intervention measures for HS: 25 mins (Sarah)
+    - Questions: (15 mins)
+- Slot IV: (60 mins)
+    - Overview of Bias in HS: 25 mins (Pinkesh)
+    - Current Developments: 25 mins (Sarah)
+    - Future Scope & Concluding Remarks: 5 mins (Dr. Tanmoy)
+    - Questions: (10 mins)
 
 ### Tutorial Instructors
 A brief biography of each tutorial instructor is presented below.
