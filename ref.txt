@@ -1,0 +1,19 @@
+Hate is the New Infodemic: A Topic-aware Modeling of Hate Speech Diffusion on Twitter: https://arxiv.org/pdf/2010.04377.pdf
+Would Your Tweet Invoke Hate on the Fly? Forecasting Hate Intensity of Reply Threads on Twitter: https://dl.acm.org/doi/10.1145/3447548.3467150
+A Unified Deep Learning Architecture for Abuse Detection: https://arxiv.org/abs/1802.00385 
+Leveraging Intra-User and Inter-User Representation Learning for Automated Hate Speech Detection: https://aclanthology.org/N18-2019.pdf 
+Characterizing and Detecting Hateful Users on Twitter: https://arxiv.org/pdf/1803.08977.pdf 
+Spread of hate speech in online social media: https://arxiv.org/abs/1812.01693
+Examining Untempered Social Media: Analyzing Cascades of Polarized Conversations (Gab):  https://www.computer.org/csdl/proceedings-article/asonam/2019/09072961/1jjAcsAe3zG
+Measuring #GamerGate: A Tale of Hate, Sexism, and Bullying on Twitter: https://arxiv.org/abs/1702.07784
+Would Your Tweet Invoke Hate on the Fly? Forecasting Hate Intensity of Reply Threads on Twitter: https://dl.acm.org/doi/10.1145/3447548.3467150
+Generating Counter Narratives against Online Hate Speech: Data and Strategies: https://arxiv.org/pdf/2004.04216.pdf
+Analyzing the hate and counter speech accounts on Twitter: https://arxiv.org/pdf/1812.02712.pdf 
+CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech: https://arxiv.org/pdf/1910.03270.pdf 
+Fighting Offensive Language on Social Media with Unsupervised Text Style Transfer: https://arxiv.org/pdf/1805.07685.pdf
+Predicting the Type and Target of Offensive Posts in Social Media: https://aclanthology.org/N19-1144/
+Using Transfer-based Language Models to Detect Hateful and Offensive Language Online: https://aclanthology.org/2020.alw-1.3/
+Cross-lingual Zero- and Few-shot Hate Speech Detection utilising frozen Transformer Language Models and AXEL: https://arxiv.org/pdf/2004.13850.pdf 
+HateBERT: Retraining BERT for Abusive Language Detection in English: https://arxiv.org/abs/2010.12472
+Hate Speech Detection via GTP-3 Prompts: https://arxiv.org/pdf/2103.12407.pdf 
+Exposing the limits of Zero-shot Cross-lingual Hate Speech Detection: https://aclanthology.org/2021.acl-short.114/
