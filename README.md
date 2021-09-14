@@ -59,3 +59,11 @@ Homepage: [https://faculty.iiit.ac.in/~vv](https://faculty.iiit.ac.in/~vv)
 Email: tanmoy@iiitd.ac.in  
 Homepage: [http://faculty.iiitd.ac.in/~tanmoy](http://faculty.iiitd.ac.in/~tanmoy)  
 Lab page: [http://lcs2.iiitd.edu.in/](http://lcs2.iiitd.edu.in/)  
+
+
+## Working with Jekyll on this repo.
+* Fork and the repository.
+* Checkout the `gh-pages` branch.
+* Run `gem install github-pages && gem update github-pages`.
+* Run `jekyll build`
+* Run `jekyll serve --livereload`. The `livereload` is to render the webpage as you keep making changes in the source. Not recommended for production.
